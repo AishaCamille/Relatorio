@@ -49,6 +49,6 @@ Recomenda-se a continuidade do uso dessas ferramentas e a análise de outros ser
 
 
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
+Aisha Camille Rodrigues da Silva
 
-[Nome do ResponsÃ¡vel pelo Projeto]
